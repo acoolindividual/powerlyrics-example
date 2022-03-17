@@ -1,0 +1,19 @@
+{
+  "name": "powerlyrics-example",
+  "version": "1.0.0",
+  "description": "Example for Powerlyrics API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acoolindividual/powerlyrics-example.git"
+  },
+  "author": "acoolindividual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acoolindividual/powerlyrics-example/issues"
+  },
+  "homepage": "https://github.com/acoolindividual/powerlyrics-example#readme"
+}
